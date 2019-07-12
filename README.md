@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>[Buildawn] built the [Slapstick TV] app as a [free] app. This SERVICE is provided by [Buildawn] [at no cost] and is intended
+<p>[Buildawn AI Labs] built the [Slapstick TV] app as a [free] app. This SERVICE is provided by [Buildawn AI Labs] [at no cost] and is intended
     for use as is.</p>
 	<p>This page is used to inform website visitors and application users regarding [our] policies </p>
 
@@ -14,8 +14,7 @@
 </ul>
 
 <p><strong>Security</strong></p>
-<p>[I|We] value your trust in providing us your Personal Information, thus we are striving to use
-    commercially acceptable means of protecting it. But remember that no method of transmission over
+<p>Remember that no method of transmission over
     the internet, or method of electronic storage is 100% secure and reliable, and [I|we] cannot
     guarantee its absolute security.</p>
 
